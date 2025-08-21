@@ -3,6 +3,8 @@
     margin: 0 16px;
     height: calc(100%-16px);
     margin-bottom: 16px;
+    display: flex;
+    justify-content: center;
 }
 .des-pro-inner{
     display: flex;
