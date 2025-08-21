@@ -1,0 +1,43 @@
+.title-wrapper{
+    margin: 0 16px;
+    padding-top: 16px;    
+}
+.featured-font{
+    color:rgb(0,0,0);
+    letter-spacing: -0.01px;
+    line-height: 24px;
+    font-size: 17px;
+    font-family: 'bold';
+}
+.Brand-wrapper{
+    margin: 12px 0;
+}
+.brand-scroll-wrapper{
+    display: flex;
+    align-items: center;
+    padding-right: 4px;
+    padding-left: 16px;
+    overflow: auto;
+    scrollbar-width: none;
+    scroll-snap-align: start;
+    scroll-snap-stop: always;
+    scroll-behavior: smooth;
+}
+.featured-img{
+    display: flex;
+    margin: 0 16px;
+    align-items: center;
+    flex: 0 0 0%;
+}
+.featured-img img{
+    filter: none;
+    opacity: 1;
+    transition: filter 0.5s ease-in-out, opacity 0.5s ease-in-out;
+    width: 328px;
+    height: 295.09px;
+    display: block;
+    object-fit: cover;
+    aspect-ratio: 339 / 305;
+    border-radius: 16px;
+}
+

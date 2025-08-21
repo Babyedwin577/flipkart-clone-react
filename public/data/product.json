@@ -1,0 +1,106 @@
+{
+   "row1":[
+    {"id":1,"name":"Mobiles","images":"https://rukminim1.flixcart.com/fk-p-flap/102/102/image/86a19de055a5ae2c.jpg?q=60"},
+    {"id":2,"name":"Food, Health","images":"https://rukminim1.flixcart.com/fk-p-flap/120/120/image/987e8204a510854d.png?q=60"},
+    {"id":3,"name":"Beauty","images":"https://rukminim1.flixcart.com/fk-p-flap/120/120/image/f6701c937d7859a2.png?q=60"},
+    {"id":4,"name":"Appliances","images":"https://rukminim1.flixcart.com/fk-p-flap/120/120/image/cba3261ad6af85cf.png?q=60"},
+    {"id":5,"name":"GenZ Trends","images":"https://rukminim1.flixcart.com/fk-p-flap/120/120/image/4dc60e4f72f2af65.jpg?q=60"},
+    {"id":6,"name":"Furniture","images":"https://rukminim1.flixcart.com/fk-p-flap/120/120/image/15d49cf205683c05.jpg?q=60"},
+    {"id":7,"name":"Auto Acc.","images":"https://rukminim1.flixcart.com/fk-p-flap/120/120/image/c099d1fc61864a89.png?q=60"},
+    {"id":8,"name":"SuperCoin","images":"https://rukminim1.flixcart.com/fk-p-flap/120/120/image/b58907cf1cede197.jpg?q=60"},
+    {"id":9,"name":"NextGen","images":"https://rukminim1.flixcart.com/fk-p-flap/120/120/image/3e262f8d04b0c087.jpg?q=60"}
+   ],
+   "row2":[
+    {"id":10,"name":"Grocery","images":"https://rukminim1.flixcart.com/fk-p-flap/120/120/image/ba36a6e60bead1d6.jpg?q=60"},
+    {"id":12,"name":"Fashion","images":"https://rukminim1.flixcart.com/fk-p-flap/120/120/image/6033e440f57cf11e.jpg?q=90"},
+    {"id":13,"name":"Travel","images":"https://rukminim1.flixcart.com/fk-p-flap/120/120/image/fd4e2bc705517272.jpg?q=60"},
+    {"id":14,"name":"Home","images":"https://rukminim1.flixcart.com/fk-p-flap/120/120/image/80fae078bba7fbad.jpg?q=60"},
+    {"id":15,"name":"Electronics","images":"https://rukminim1.flixcart.com/fk-p-flap/120/120/image/9af2825c1882cb09.jpg?q=60"},
+    {"id":16,"name":"2 Wheelers","images":"https://rukminim1.flixcart.com/fk-p-flap/120/120/image/11b6cea6b69c742c.jpg?q=60"},
+    {"id":17,"name":"Toys,Baby","images":"https://rukminim1.flixcart.com/fk-p-flap/120/120/image/aaf986da3bdaa307.png?q=60"},
+    {"id":18,"name":"Filpkart Pay","images":"https://rukminim1.flixcart.com/fk-p-flap/120/120/image/7a5f28e96ae3e9ae.png?q=60"},
+    {"id":19,"name":"Sell Phone","images":"https://rukminim1.flixcart.com/fk-p-flap/120/120/image/aa18c3dbbb2268a9.jpg?q=60"},
+    {"id":29,"name":"Sell Phone","images":"https://rukminim1.flixcart.com/fk-p-flap/120/120/image/164da3b7aa099c65.jpg?q=60"}
+   ],
+   "sales1":[
+      {"id":20,"image":"https://rukminim2.flixcart.com/fk-p-flap/1040/1560/image/aa1831db022d0d99.jpg?q=60"},
+      {"id":21,"image":"https://rukminim2.flixcart.com/fk-p-flap/1040/1560/image/92411e2177f0a1bf.png?q=60"},
+      {"id":22,"image":"https://rukminim2.flixcart.com/fk-p-flap/1040/1560/image/62d3c1707ff03e7d.jpg?q=60"},
+      {"id":23,"image":"https://rukminim2.flixcart.com/fk-p-flap/1040/1560/image/7ac391cd5c19092b.jpg?q=60"},
+      {"id":24,"image":"https://rukminim2.flixcart.com/fk-p-flap/1040/1560/image/2af9a86baecd45d4.jpg?q=60"},
+      {"id":25,"image":"https://rukminim2.flixcart.com/fk-p-flap/1040/1560/image/3d770fce4c1f0c34.jpg?q=60"},
+      {"id":26,"image":"https://rukminim2.flixcart.com/fk-p-flap/1040/1560/image/0a78c19565d5d592.jpg?q=60"},
+      {"id":27,"image":"https://rukminim2.flixcart.com/fk-p-flap/1040/1560/image/e9eb5bb69f8ae66f.png?q=60"},
+      {"id":28,"image":"https://rukminim2.flixcart.com/fk-p-flap/1040/1560/image/0c6941cc7fdcc086.jpg?q=60"},
+      {"id":30,"image":"https://rukminim2.flixcart.com/fk-p-flap/1040/1560/image/eccbc3fd53e1ea55.png?q=60"}
+   ],
+   "sales2":[
+      {"id":31,"image":"https://rukminim2.flixcart.com/fk-p-flap/1040/1560/image/46d4e7a198727a48.jpg?q=60"},
+      {"id":33,"image":"https://rukminim2.flixcart.com/fk-p-flap/1040/1560/image/a653445b2834f237.jpg?q=60"},
+      {"id":34,"image":"https://rukminim2.flixcart.com/fk-p-flap/1040/1560/image/2e2e855d762fb2f2.jpg?q=60"},
+      {"id":35,"image":"https://rukminim2.flixcart.com/fk-p-flap/1040/1560/image/b98214071f0d77d9.jpg?q=60"},
+      {"id":36,"image":"https://rukminim2.flixcart.com/fk-p-flap/1040/1560/image/2dcd11070b67c29c.jpg?q=60"},
+      {"id":37,"image":"https://rukminim2.flixcart.com/fk-p-flap/1040/1560/image/f416014a6f7f67ea.jpg?q=60"},
+      {"id":38,"image":"https://rukminim2.flixcart.com/fk-p-flap/1040/1560/image/a75dddd91bebfeba.jpg?q=60"},
+      {"id":39,"image":"https://rukminim2.flixcart.com/fk-p-flap/1040/1560/image/69835db84d2091be.jpg?q=60"},
+      {"id":40,"image":"https://rukminim2.flixcart.com/fk-p-flap/1040/1560/image/0cad92eb02da4a2d.jpg?q=60"}
+   ],
+   "featured":[
+      {"id":41,"image":"https://rukminim2.flixcart.com/fk-p-flap/960/860/image/41078e753ff8c6da.jpeg?q=60"},
+      {"id":42,"image":"https://rukminim2.flixcart.com/fk-p-flap/960/860/image/32fba2559a954277.jpeg?q=60"},
+      {"id":43,"image":"https://rukminim2.flixcart.com/fk-p-flap/960/860/image/dbf7aa11ab8e1497.jpeg?q=60"},
+      {"id":44,"image":"https://rukminim2.flixcart.com/fk-p-flap/960/860/image/cfbda73e2799edb2.jpeg?q=60"},
+      {"id":45,"image":"https://rukminim2.flixcart.com/fk-p-flap/960/860/image/aa6b26e59bf21c65.jpeg?q=60"},
+      {"id":46,"image":"https://rukminim2.flixcart.com/fk-p-flap/960/860/image/00646ecfa82cfbcf.jpeg?q=60"},
+      {"id":47,"image":"https://rukminim2.flixcart.com/fk-p-flap/960/860/image/2dbac9b86d663772.jpeg?q=60"},
+      {"id":48,"image":"https://rukminim2.flixcart.com/fk-p-flap/960/860/image/8153b5af4fb6956f.jpeg?q=60"},
+      {"id":49,"image":"https://rukminim2.flixcart.com/fk-p-flap/960/860/image/79ce3f93d932bd87.jpeg?q=60"},
+      {"id":50,"image":"https://rukminim2.flixcart.com/fk-p-flap/960/860/image/08e784e96bab52c7.jpeg?q=60"}
+   ],
+   "scrollnav":[
+      {"id":51,"image":"https://rukminim2.flixcart.com/fk-p-flap/128/128/image/a22a213ca6221b65.png?q=100","name":"Minutes"},
+      {"id":52,"image":"https://rukminim2.flixcart.com/fk-p-flap/128/128/image/5f2ee7f883cdb774.png?q=100","name":"Mobiles & Tablets"},
+      {"id":53,"image":"https://rukminim2.flixcart.com/fk-p-flap/128/128/image/ff559cb9d803d424.png?q=100","name":"Fashion"},
+      {"id":54,"image":"https://rukminim2.flixcart.com/fk-p-flap/128/128/image/af646c36d74c4be9.png?q=100","name":"Electroincs"},
+      {"id":55,"image":"https://rukminim2.flixcart.com/fk-p-flap/128/128/image/1788f177649e6991.png?q=100","name":"Home & Furniture"},
+      {"id":56,"image":"https://rukminim2.flixcart.com/fk-p-flap/128/128/image/e90944802d996756.jpg?q=100","name":"TV & Applinaces"},
+      {"id":57,"image":"https://rukminim2.flixcart.com/fk-p-flap/128/128/image/3c647c2e0d937dc5.png?q=100","name":"Flight Bookings"},
+      {"id":58,"image":"https://rukminim2.flixcart.com/fk-p-flap/128/128/image/b3020c99672953b9.png?q=100","name":"Beauty,Food"},
+      {"id":59,"image":"https://rukminim2.flixcart.com/fk-p-flap/128/128/image/e730a834ad950bae.png?q=100","name":"Grocery"}
+   ],
+   "silderDesktop":[
+         "https://rukminim2.flixcart.com/fk-p-flap/2020/340/image/65e558802089982f.jpg?q=60",
+         "https://rukminim2.flixcart.com/fk-p-flap/2020/340/image/aa3b4d169d270bc7.jpg?q=60",
+         "https://rukminim2.flixcart.com/fk-p-flap/2020/340/image/74f0ad81e44e6e6f.jpg?q=60",
+         "https://rukminim2.flixcart.com/fk-p-flap/2020/340/image/5b309e98775e22e4.jpg?q=60",
+         "https://rukminim2.flixcart.com/fk-p-flap/2020/340/image/5b309e98775e22e4.jpg?q=60"
+   ],
+   "electronics":[
+      {"name":"Best Truewireless Headphones","image":"https://rukminim2.flixcart.com/image/220/220/l58iaa80/headphone/k/z/m/nord-buds-ce-oneplus-original-imagfyk4hyvgg6ze.jpeg?q=60","descreption":"Grap Now"},
+      {"name":"Top Mirrorless Cameras","image":"https://rukminim2.flixcart.com/image/220/220/xif0q/dslr-camera/8/q/r/compact-camera-portable-small-point-and-shoot-digital-camera-for-original-imahec6vcssf4hzg.jpeg?q=60","descreption":"Shop Now!"},
+      {"name":"Printers","image":"https://rukminim2.flixcart.com/image/220/220/xif0q/printer/s/8/d/-original-imafkykednshkhx5.jpeg?q=60","descreption":"From ₹2336"},
+      {"name":"Projectors","image":"https://rukminim2.flixcart.com/image/220/220/xif0q/printer/r/7/3/dcp-l2520d-ind-brother-original-imah3fzquk9xegpr.jpeg?q=60","descreption":"From ₹6990"},
+      {"name":"Monitor","image":"https://rukminim2.flixcart.com/image/220/220/xif0q/monitor/o/r/h/ed270u-s3-wqhd-27-2024-um-he0si-302-acer-original-imahdhzyy5zjhfky.jpeg?q=60","descreption":"From ₹8279"},
+      {"name":"Best Selling Mobile Speakers","image":"https://rukminim2.flixcart.com/image/220/220/xif0q/projector/q/7/6/i9-pro-10-ei9027-led-projector-egate-original-imah5e3bggu5qcgp.jpeg?q=60","descreption":"From ₹499*"},
+      {"name":"Monitors","image":"https://rukminim2.flixcart.com/image/220/220/kcf4lu80/speaker/mobile-tablet-speaker/h/u/f/srs-xb23-sony-original-imaftk66vjxp86h5.jpeg?q=60","descreption":"From ₹6599"},
+      {"name":"Monitors","image":"https://rukminim2.flixcart.com/image/220/220/xif0q/monitor/w/i/f/-original-imahagy2cefszqgy.jpeg?q=60","descreption":"From ₹9999"}
+   ],
+   "beauty":[
+      {"name":"Coffee Powder","image":"https://rukminim2.flixcart.com/image/220/220/kzzw5u80/coffee/s/b/x/-original-imagbwf3wvhzfh5z.jpeg?q=60","descreption":"Upto 80% Off"},
+      {"name":"Best of Action Toys","image":"https://rukminim2.flixcart.com/image/220/220/kzegk280/action-figure/9/v/t/3-30155-mcfarlane-2-5-original-imagbeyyzehpyk2m.jpeg?q=60","descreption":"Up to 70% Off"},
+      {"name":"Geared Cycles","image":"https://rukminim2.flixcart.com/image/220/220/l111lzk0/cycle/m/r/e/xc-900-grey-lite-26-15-5-cradiac-21-gear-120-original-imagczuzpxeweczm.jpeg?q=60","descreption":"Up to 70% Off"},
+      {"name":"Top Selling Stationery","image":"https://rukminim2.flixcart.com/image/220/220/k0plpjk0/remote-control-toy/9/g/k/4-function-remote-control-high-speed-big-racing-car-toy-funkey-original-imafkg33umd8dy93.jpeg?q=60","descreption":"From ₹49"},
+      {"name":"Remote Control Cars","image":"https://rukminim2.flixcart.com/image/220/220/jxz0brk0/stuffed-toy/n/t/s/4-feet-pink-very-beautiful-best-quality-for-special-gift-125-13-original-imafgv92puzkdytg.jpeg?q=60","descreption":"Up to 70% Off"},
+      {"name":"Food Spreads","image":"https://rukminim2.flixcart.com/image/220/220/klzhq4w0/jam-spread/w/q/u/510-chocolate-peanut-butter-crunchy-510g-jar-nut-butter-original-imagyzpqqfaguxny.jpeg?q=60","descreption":"Up to 80% Off"},
+      {"name":"Puzzles and cubes","image":"https://rukminim2.flixcart.com/image/220/220/k6fd47k0/nut-dry-fruit/p/z/7/200-100-natural-california-pouch-happilo-original-imafzvw2tcazeur6.jpeg?q=60","descreption":"Up to 75% Off"},
+      {"name":"Dry Friuts","image":"https://rukminim2.flixcart.com/image/220/220/kx50gi80/pen/h/z/k/119766-flair-original-imag9nzubznagufg.jpeg?q=60","descreption":"Up to 50% Off"}
+   ],
+   "sports":[
+      {"name":"Best of Action Toys","image":"https://rukminim2.flixcart.com/image/220/220/kl5hh8w0/puzzle/g/n/g/60-wooden-earth-jigsaw-puzzle-60-pcs-webby-original-imagyc8hsdztzdzb.jpeg?q=60","descreption":"Upto 70% Off"},
+      {"name":"Tea Powder","image":"https://rukminim2.flixcart.com/image/220/220/kiqbma80-0/musical-toy/s/k/b/xylophone-guitar-wooden-kids-first-musical-sound-instrument-toy-original-imafyfszcjkjcwwz.jpeg?q=60","descreption":"Upto 75% Off"},
+      {"name":"Musical Toys","image":"https://rukminim2.flixcart.com/image/220/220/kkimfm80/tea/z/n/1/premium-pouch-regular-tea-powder-tata-original-imafzuf2mnubzphd.jpeg?q=60","descreption":"Under 199"},
+      {"name":"Learning & Educational Games","image":"https://rukminim2.flixcart.com/image/220/220/ks6ef0w0/cereal-flake/q/w/h/1-oats-veggies-masala-oats-pouch-yogabar-original-imag5suhzvwy3xh4.jpeg?q=60","descreption":"Upto 75% Off"},
+      {"name":"Honey","image":"https://rukminim2.flixcart.com/image/220/220/ks6ef0w0/cereal-flake/q/w/h/1-oats-veggies-masala-oats-pouch-yogabar-original-imag5suhzvwy3xh4.jpeg?q=60","descreption":"Upto 75% Off"},
+      {"name":"Breakfast Cereal","image":"https://rukminim2.flixcart.com/image/220/220/kcjexe80/honey/w/y/4/1-honey-saffola-original-imaftn9ppz2shxzg.jpeg?q=60","descreption":"Upto 80% Off"}
+   ]
+}

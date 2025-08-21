@@ -1,0 +1,115 @@
+.des-pro-wrapper{
+    background-color: rgb(255,255,255);
+    margin: 0 16px;
+    height: calc(100%-16px);
+    margin-bottom: 16px;
+}
+.des-pro-inner{
+    display: flex;
+    max-width: 996px;
+    width: 100%;
+    flex-direction: column;
+}
+.des-pro-head{
+    display: flex;
+    justify-content: flex-start;
+    padding: 16px 12px;
+    align-items: center;
+}
+.des-pro-head h1{
+   color: rgb(31, 31, 31);
+    border-width: 0px;
+    box-sizing: border-box;
+    display: inline;
+    white-space: nowrap;
+    overflow-wrap: normal;
+    max-width: 100%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    vertical-align: middle;
+    font-family: 'bold';
+    letter-spacing: -0.02px;
+    font-size: 22px;
+    line-height: 30px;
+    margin: 0;
+}
+.des-pro-scroll-wrapper{
+    width: 100%;
+}
+.des-pro-scroll{
+    display: flex;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    scroll-behavior: smooth;
+    -webkit-overflow-scrolling: touch;
+    scroll-snap-type: x mandatory;
+    padding-left: 6px;
+    padding-right: 6px;
+    scroll-padding-left: 6px;
+    scroll-padding-right: 6px;
+    scrollbar-width: none;
+    padding-bottom: 12px;
+}
+.des-pro-item-wrap{
+    width: 172px;
+    display: flex;
+    scroll-snap-stop: always;
+    scroll-snap-align: start;
+}
+.des-pro-item-inner{
+    margin: 8px;
+    padding:12px 24px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: 100%;
+}
+.des-pro-item-inner img{
+    filter: none;
+    opacity: 1;
+    transition: filter 0.5s ease-in-out, opacity 0.5s ease-in-out;
+    width: 108px;
+    height: 108px;
+    margin: auto;
+    display: block;
+    object-fit: contain;
+    aspect-ratio: 1 / 1;
+    margin: 0;
+}
+.des-pro-details{
+    padding: 12px 0 0;
+    max-width: 100%;
+}
+.des-pro-name {
+    color: rgb(31, 31, 31);
+    font-family: 'regular';
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: -0.01px;
+    width: 108px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap; 
+    margin: 0;
+    display: block;  
+    text-align: center;
+}
+.des-pro-offer{
+    color: rgb(31, 31, 31);
+    font-family: 'bold';
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: -0.01px;
+    max-width: 100%;
+    text-overflow: ellipsis;
+    text-align: center;
+    margin: 0;
+}
+.des{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
