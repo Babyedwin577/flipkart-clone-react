@@ -1,5 +1,5 @@
 import React,{useState,useEffect} from 'react'
-
+import '../Styles/Featured.css'
 export const Featured = () => {
     const [images,setImages]=useState([])
     useEffect(()=>{

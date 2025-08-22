@@ -37,6 +37,10 @@
     width: 136.23px;
     height: 58.13px;
 }
+.minutes-backgound img{
+    width: 100%;
+    height: 100%;
+}
 .products-font{
     font-family: 'semibold';
     font-size: 10px;

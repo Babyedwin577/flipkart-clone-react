@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import './Sales.css'
+import '../Styles/Sales.css'
 export const Sales = () => {
     const [images,setImages]=useState([])
     useEffect(()=>{

@@ -69,11 +69,12 @@
       {"id":59,"image":"https://rukminim2.flixcart.com/fk-p-flap/128/128/image/e730a834ad950bae.png?q=100","name":"Grocery"}
    ],
    "silderDesktop":[
-         "https://rukminim2.flixcart.com/fk-p-flap/2020/340/image/65e558802089982f.jpg?q=60",
-         "https://rukminim2.flixcart.com/fk-p-flap/2020/340/image/aa3b4d169d270bc7.jpg?q=60",
-         "https://rukminim2.flixcart.com/fk-p-flap/2020/340/image/74f0ad81e44e6e6f.jpg?q=60",
+         "https://rukminim2.flixcart.com/fk-p-flap/2020/340/image/7701540321d8c105.jpg?q=60",
+         "https://rukminim2.flixcart.com/fk-p-flap/2020/340/image/076c4f2ee87225d7.jpg?q=60",
+         "https://rukminim2.flixcart.com/fk-p-flap/2020/340/image/076c4f2ee87225d7.jpg?q=60",
          "https://rukminim2.flixcart.com/fk-p-flap/2020/340/image/5b309e98775e22e4.jpg?q=60",
-         "https://rukminim2.flixcart.com/fk-p-flap/2020/340/image/5b309e98775e22e4.jpg?q=60"
+         "https://rukminim2.flixcart.com/fk-p-flap/2020/340/image/88fc9893fff2b6c0.jpeg?q=60",
+         "https://rukminim2.flixcart.com/fk-p-flap/2020/340/image/ece2f8f89cb3cf2e.jpeg?q=60"
    ],
    "electronics":[
       {"name":"Best Truewireless Headphones","image":"https://rukminim2.flixcart.com/image/220/220/l58iaa80/headphone/k/z/m/nord-buds-ce-oneplus-original-imagfyk4hyvgg6ze.jpeg?q=60","descreption":"Grap Now"},
@@ -102,5 +103,20 @@
       {"name":"Learning & Educational Games","image":"https://rukminim2.flixcart.com/image/220/220/ks6ef0w0/cereal-flake/q/w/h/1-oats-veggies-masala-oats-pouch-yogabar-original-imag5suhzvwy3xh4.jpeg?q=60","descreption":"Upto 75% Off"},
       {"name":"Honey","image":"https://rukminim2.flixcart.com/image/220/220/ks6ef0w0/cereal-flake/q/w/h/1-oats-veggies-masala-oats-pouch-yogabar-original-imag5suhzvwy3xh4.jpeg?q=60","descreption":"Upto 75% Off"},
       {"name":"Breakfast Cereal","image":"https://rukminim2.flixcart.com/image/220/220/kcjexe80/honey/w/y/4/1-honey-saffola-original-imaftn9ppz2shxzg.jpeg?q=60","descreption":"Upto 80% Off"}
+   ],
+   "sponsored":[
+      "https://rukminim2.flixcart.com/fk-p-flap/200/260/image/25b1f9dcc6a7d588.jpeg?q=60",
+      "https://rukminim2.flixcart.com/fk-p-flap/200/260/image/449e279c08a0970f.jpeg?q=60",
+      "https://rukminim2.flixcart.com/fk-p-flap/200/260/image/956ecfe15a0b52dd.jpeg?q=60"
+   ],
+   "sponsored2":[
+      "https://rukminim2.flixcart.com/fk-p-flap/200/260/image/254cec7bf08a9484.jpeg?q=60",
+      "https://rukminim2.flixcart.com/fk-p-flap/200/260/image/1ec4577d4c822ddd.jpeg?q=60",
+      "https://rukminim2.flixcart.com/fk-p-flap/200/260/image/9624b2d100cc6f0d.jpeg?q=60"
+   ],
+   "trending":[
+      {"name":"Flipkart SmartBuy Polyester Adults Washable FSB-MN-P-K-D-BLUE Z Mosquito Net Blue, Tent","image":"https://rukminim2.flixcart.com/image/260/340/xif0q…ue-z-flipkart-original-imahdtdbt4gyzar2.jpeg?q=60","price":"₹408","discount":"1,999"},
+      {"name":"Comfortnet Polyester Adults Washable King Size BED Strong Net Coated Steel Wire MACHARDANI Mosquito Net Blue, Tent","image":"https://rukminim2.flixcart.com/image/260/340/xif0q…ue-z-flipkart-original-imahdtdbt4gyzar2.jpeg?q=60","price":"₹406","discount":"2,999"},
+      {"name":"Chhogli Microfiber Bathroom Mat Gray, Medium","image":"https://rukminim2.flixcart.com/image/260/340/xif0q…ue-z-flipkart-original-imahdtdbt4gyzar2.jpeg?q=60","price":"₹121","discount":"1,228"}
    ]
 }
