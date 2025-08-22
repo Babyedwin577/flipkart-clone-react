@@ -1,7 +1,6 @@
 .des-pro-wrapper{
-    background-color: rgb(255,255,255);
     margin: 0 16px;
-    height: calc(100%-16px);
+    height: calc(100% - 16px);
     margin-bottom: 16px;
     display: flex;
     justify-content: center;
@@ -9,6 +8,7 @@
 .des-pro-inner{
     display: flex;
     max-width: 996px;
+    background-color: rgb(255,255,255);
     width: 100%;
     flex-direction: column;
 }
@@ -115,3 +115,116 @@
     justify-content: center;
     align-items: center;
 }
+.des-special-sale-wrapper{
+    display: flex;
+    margin: 0 16px;
+    justify-content: center;
+}
+.specialSale-inner{
+    display: flex;
+    flex-direction: column;
+    max-width: 996px;
+    background-color: rgb(255,255,255);
+    width: 100%;
+}
+.specialSale-head{
+    display: flex;
+    padding: 16px 12px;
+    align-items: center;
+    min-height: 80px;
+    justify-content: space-between;
+}
+.specialSale-head h1{
+    font-family: 'semibold';
+    color:rgb(31, 31, 31);
+    line-height: 30px;
+    letter-spacing: -0.02px;
+    margin: 0;
+    font-size:22px;
+}
+.specialSale-nextbutton{
+    margin: 4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(42, 85, 229);
+    border-radius: 42px;
+}
+.specialSale-nextbutton svg{
+ margin: 4px;
+}
+.specialsale-items-wrap{
+    display: flex;
+    flex-flow: wrap;
+    padding: 6px;
+    padding-top: 0;
+}
+.specialsale-items{
+    display:flex;
+    flex: 0 0 25%;
+    max-width: 25%;
+}
+.specialsale-items-inner{
+    margin: 6px;
+    margin-top: 0;
+    width: 100%;
+}
+.s-i-w{
+    padding: 12px;
+    border: 1px solid #ebebeb;
+    width: 100%;
+}
+.Special-sale-addition{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: stretch;
+    width: 100%;
+}
+.S-sale-img{
+    padding: 8px 8px 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.S-sale-img img{
+    filter: none;
+    opacity: 1;
+    transition: filter 0.5s ease-in-out, opacity 0.5s ease-in-out;
+    width: 100%;
+    margin: auto;
+    display: block;
+    object-fit: contain;
+    aspect-ratio: 1 / 1;
+}
+.Special-item-des{
+    display: flex;
+    padding-top: 12px;
+    flex-direction: column;
+    width: 100%;
+    max-width: 100%;
+    min-width: 0;
+    justify-content: center;
+}
+.Special-item-des h1{
+    margin: 0;
+    text-overflow: ellipsis;
+    max-width: 100%;
+    overflow: hidden;
+    color: rgb(31, 31, 31);
+    font-size: 17px;
+    letter-spacing: -0.01px;
+    line-height: 24px;
+    font-family: 'regular';
+    white-space: nowrap;
+    display: block;
+}
+.Special-item-des p{
+    margin: 0;
+    font-size: 17px;
+    letter-spacing: -0.01px;
+    line-height: 24px;
+    font-family: 'semibold';
+    color: rgb(16, 137, 52);
+}
+

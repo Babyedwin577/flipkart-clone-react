@@ -88,6 +88,7 @@
   overflow-x: scroll;
   scrollbar-width: none;
   scroll-behavior: smooth;
+  max-width: 996px;
 }
 
 .des-scroll-inner{
@@ -132,6 +133,9 @@
 }
 .des-main-inner{
   margin-top: 8px;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 16px;
 }
 .des-silder-wrap{
    height: calc(100% - 16px);
@@ -140,7 +144,6 @@
    justify-content: center;
    margin-left: 16px;
    margin-right: 16px;
-
 }
 .des-silder-inner
 {

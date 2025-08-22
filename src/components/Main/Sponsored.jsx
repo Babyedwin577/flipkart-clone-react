@@ -13,7 +13,8 @@ export const Sponsored = () => {
     },[])
   return (
     <div className='sponsored-wrapper'>
-        <div className='sponsored-head'>
+        <div style={{width:'100%',display:"flex",flexDirection:"column"}}>
+            <div className='sponsored-head'>
             <h1>Sponsored</h1>
         </div>
         <div className='sponsored-list'>
@@ -31,6 +32,7 @@ export const Sponsored = () => {
                     <p>Unable to fetch</p>
                 )
             }
+        </div>
         </div>
     </div>
   )

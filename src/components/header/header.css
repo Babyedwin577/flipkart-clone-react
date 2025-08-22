@@ -12,6 +12,8 @@
     box-sizing: border-box;
     z-index: 1000;
     height: 48px;
+    width: 480px;
+    margin: auto;
 }
 .logo{
     display: flex;
@@ -198,3 +200,4 @@
     padding: 8px 14px;
     margin: 0;
 }
+

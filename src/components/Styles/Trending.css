@@ -1,4 +1,4 @@
-.trending-main-wrapper{
+/* .trending-main-wrapper{
     width:100%;
     height: 100%;
 }
@@ -31,14 +31,15 @@
     height: 24px;
 }
 .Trending-items{
-    margin-left: 16px;
-    margin-right: 4px;
-    margin-bottom: 4px;
+    width: 100%;
 }
 .trending-items-inner{
     display: flex;
     justify-content: flex-start;
     align-items: center;
+    margin-right: 4px;
+    margin-left: 16px;
+    margin-bottom: 4px;
 }
 .t-item-wrap{
     display: flex;
@@ -50,4 +51,7 @@
     margin-bottom:12px;
     flex: 1 1 33.33333%;
 }
-
+.t-item-wrap img{
+    height: 100%;
+    width: 100%;
+} */
