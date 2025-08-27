@@ -11,7 +11,7 @@
   height: 100%;
   overflow-x: auto;
   scroll-snap-type: x mandatory;
-  scrollbar-width: none;
+  scrollbar-width: none; 
 }
 
 .silder-item {
@@ -71,71 +71,14 @@
   width: 100%; /* fill all the way */
   transition: width 3.0s ease-in;
 }
-.des-scroll-wrapper{
-  margin: 0 16px;
-  background-color: #f5f5f5;
-}
-.des-scroll-inner{
-  margin-top: 8px;
-  max-width: 996px;
-  margin-bottom: 16px;
-}
-.des-scroll-wrapper{
-  max-width: 100%;
-  background-color: rgba(255,255,255,1.00);
-  display: flex;
-  align-items: center;
-  overflow-x: scroll;
-  scrollbar-width: none;
-  scroll-behavior: smooth;
-  max-width: 996px;
-}
 
-.des-scroll-inner{
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  cursor: pointer;
-  min-width: 90px;
-  margin: 0;
-}
-.des-scroll-img{
-  display: flex;
-  margin-bottom: 4px;
-}
-.des-scroll-img img{
-  height: 64px;
-  width: 64px;
-  display: flex;
-  margin: auto;
-}
-.des-scroll-font{
-  width: 100%;
-}
-.des-scroll-font h1{
-  font-size: 14px;
-  font-family: 'bold';
-  color: rgb(17,17,18);
-  cursor: pointer;
-  letter-spacing: normal;
-  justify-content: center;
-  align-items: center;
-  display: flex;
-  margin: 0;
-  text-align: center;
-}
-.des-item-wrap{
-  padding: 16px;
-}
-.change{
-  padding-left: 24px;
-}
+
 .des-main-inner{
   margin-top: 8px;
   display: flex;
   justify-content: center;
   margin-bottom: 16px;
+  position: relative;
 }
 .des-silder-wrap{
    height: calc(100% - 16px);
@@ -212,5 +155,15 @@
   width: 100%;
   transition:width 3.0s ease-in;
 }
+
+.top-change{
+  left: auto;
+  right: 0;
+}
+
+
+
+
+
 
 

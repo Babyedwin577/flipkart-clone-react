@@ -12,8 +12,9 @@
     box-sizing: border-box;
     z-index: 1000;
     height: 48px;
-    width: 480px;
+    width: 100%;
     margin: auto;
+    background:#fff;
 }
 .logo{
     display: flex;
@@ -127,6 +128,7 @@
    max-width: 996px;
    padding: 12px;
    width: 100%;
+   padding-top: 13px;
 }
 .desktop-logo{
     display: flex;
@@ -186,10 +188,13 @@
    margin-left: 0;
 }
 .login-desk{
+    padding: 0 6px 0;
+    position: relative;
+}
+.ForBorder{
     padding: 8px;
-    padding-left: 14px;
-    padding-right: 14px;
     border: 1px solid transparent;
+    border-radius: 8px;
 }
 .login-des{
    margin-left: 0;
@@ -200,4 +205,94 @@
     padding: 8px 14px;
     margin: 0;
 }
+.login-desk:hover .desk-extra{
+    background:  rgb(42, 85, 229);
+}
+.login-desk:hover .fonts{
+    color: #fff;
+}
+.login-desk:hover .drop{
+    filter: brightness(0) invert(1);
+}
+.login-desk:hover .des-mar{
+     filter: brightness(0) invert(1);
+}
+.dropdown-menu{
+    position: absolute;
+    top: 100%;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    background-color: #fff;
+    border: 1px solid #f0f0f0;
+    min-width: 100px;
+    box-shadow: 0 4px 16px 0 rgba(0, 0, 0, .2);
+    z-index: 100;
+    display: none;
+    border-radius: 8px;
+    width: 280px;
+    left: -60%;
+}
+.dropdown-item
+{
+    display: flex;
+    justify-content: space-between;
+    padding: 12px;
+    align-items: center;
+    width: 100%;
+}
+.drop-span{
+    letter-spacing: normal;
+    color: rgb(0, 0, 0);
+    line-height: 24px;
+    font-family: 'regular';
+    font-size: 16px;
+}
+.drop-span-two{
+    color: rgb(42, 85, 229);
+    letter-spacing: normal;
+    line-height: 24px;
+    font-family: 'semibold';
+    font-size: 16px;
+}
+.drop-border{
+    border: 0;
+    border-bottom: 1px solid rgb(235, 227, 227);
+}
+.dropdown-item img{
+    height: 18px;
+    width: 18px;
+}
+.drop-span-regular{
+    font-size: 14px;
+    line-height: 20px;
+}
+.login-desk:hover .dropdown-menu{
+    display: block;
+}
+.justify-item{
+    justify-content: flex-start;
+    border: none;
+    gap: 8px;
+}
+.justify-item:hover{
+  background: rgba(249, 245, 245, 0.425);
+}
+.info-width{
+    min-width: 210px;
+    left: -500%;
+}
+.info-options{
+    position: relative;
+}
+.info-options:hover .dropdown-menu{
+    display: block;
+}
 
+@media  screen and (min-width:1024px) {
+    
+}
+.des-nav-inner{
+    width: 100%;
+    padding: 12px 28px;
+}

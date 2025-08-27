@@ -1,0 +1,121 @@
+.top-deals-wrap{
+    display: flex;
+    max-width: 996px;
+    background-color: rgb(255,255,255);
+    width: 100%;
+    margin-bottom: 16px;
+}
+.top-deals-inner{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content:center;
+    width: 100%;
+}
+.top-deals-inner h1{
+    padding: 16px 12px;
+    letter-spacing: -0.02px;
+    line-height: 30px;
+    font-size: 22px;
+    font-family: 'semibold';
+    color: rgb(31,31,31);
+    display: block;
+    width: 100%;
+    margin: 0;
+}
+.top-deals-scrollwrapper{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    max-width: 100%;
+    overflow: scroll;
+    scrollbar-width: none;
+    padding: 0 6px 12px;
+    scroll-behavior: smooth;
+    scroll-snap-type: x mandatory;
+}
+.topdeals-item-wrapper{
+    width: 172px;
+    padding: 20px 32px;
+    display: flex;
+    flex-direction: column;
+    max-width: 100%;
+    flex-shrink: 0;
+    align-items: center;
+    justify-content: center;
+}
+.topdeals-item-wrapper img{
+    filter: none;
+    opacity: 1;
+    transition: filter 0.5s ease-in-out, opacity 0.5s ease-in-out;
+    width: 100%;
+    margin: auto;
+    display: block;
+    object-fit: contain;
+    aspect-ratio: 1 / 1;
+}
+.topdeals-deswrap{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+    padding-top: 12px;
+}
+.topdeals-deswrap h1{
+    margin: 0;
+    display: block;
+    max-width: 100%;
+    overflow: hidden;
+    width: 100%;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: -0.01px;
+    color: rgb(31,31,31);
+    font-family: 'regular';
+    text-align: center;
+    padding: 0;
+}
+.topdeals-deswrap p{
+    margin: 0;
+    display: block;
+    max-width: 100%;
+    overflow: hidden;
+    width: 100%;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: -0.01px;
+    color: rgb(31,31,31);
+    font-family: 'bold';
+    text-align: center;
+}
+.topdeals-heading{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    padding: 16px 12px; ;
+}
+.topdeals-heading h1{
+    letter-spacing: -0.02px;
+    line-height: 30px;
+    font-size: 22px;
+    font-family: 'semibold';
+    color: rgb(31,31,31);
+    display: block;
+    width: 100%;
+    margin: 0;
+}
+.recent-nextbtn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(42, 85, 229);
+    border-radius: 42px;
+}
+.recent-nextbtn svg{
+    margin: 4px;
+}

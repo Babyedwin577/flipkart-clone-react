@@ -119,6 +119,7 @@
     display: flex;
     margin: 0 16px;
     justify-content: center;
+    margin-bottom: 16px;
 }
 .specialSale-inner{
     display: flex;
@@ -165,9 +166,9 @@
     max-width: 25%;
 }
 .specialsale-items-inner{
-    margin: 6px;
-    margin-top: 0;
     width: 100%;
+    padding: 6px;
+    padding-top: 0;
 }
 .s-i-w{
     padding: 12px;
@@ -227,4 +228,5 @@
     font-family: 'semibold';
     color: rgb(16, 137, 52);
 }
+
 
